@@ -1,0 +1,26 @@
+/* splash screen*/
+"splash-screen-welcome" = "Splash screen welcome!";
+
+/*onboarding step one screen*/
+"proceed" = "Proceed";
+
+/*onboarding final step screen*/
+"lets-go" = "Lets go!";
+
+/*language screen*/
+"language" = "Language";
+"english" = "English";
+"croatian" = "Croatian";
+
+/*settings screen*/
+"choose-language" = "Choose language";
+"log-out" = "Log out";
+"settings" = "Settings";
+
+/*home screen*/
+"home" = "Home";
+
+/*user details*/
+"user-details" = "User details";
+"user-name" = "User name";
+"user-id" = "User id";

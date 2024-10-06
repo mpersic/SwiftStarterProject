@@ -1,0 +1,26 @@
+/* splash screen */
+"splash-screen-welcome" = "Dobrodošli na splash ekran!";
+
+/* onboarding step one */
+"proceed" = "Nastavi";
+
+/* onboarding final step */
+"lets-go" = "Krenimo!";
+
+/*language screen*/
+"language" = "Jezik";
+"english" = "Engleski";
+"croatian" = "Hrvatski";
+
+/*settings screen*/
+"choose-language" = "Odaberite jezik";
+"log-out" = "Odjavi se";
+"settings" = "Postavke";
+
+/*home screen*/
+"home" = "Početna";
+
+/*user details*/
+"user-details" = "Podaci o korisniku";
+"user-name" = "Ime korisnika";
+"user-id" = "ID korisnika";
