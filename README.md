@@ -1,7 +1,7 @@
 # SwiftStarterProject
 
 ## Overview
-This iOS Skeleton Project serves as a template for kickstarting new applications. It implements Clean Architecture principles, providing a robust structure for building scalable and maintainable applications. The project follows the MVVM (Model-View-ViewModel) pattern for state management, ensuring a clear separation of concerns and simplifying testing and management of application logic.
+This iOS SwiftUI Skeleton Project serves as a template for kickstarting new applications. It implements Clean Architecture principles, providing a robust structure for building scalable and maintainable applications. The project follows the MVVM (Model-View-ViewModel) pattern for state management, ensuring a clear separation of concerns and simplifying testing and management of application logic.
 
 ## Key Features
 - **Clean Architecture**: Organized layers of code that separate presentation, domain, and data, making the app easier to maintain and extend.
